@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w6+t-usuzi%sqz6^*&!la15jxr+^ci1qu-yf1o78fizj-uz(3^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['BMI.onrender.com', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
